@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "carName":"Bugatti Chiron",
+        "price":"20000",
+        "image":"https://www.bugatti.com/fileadmin/_processed_/sei/p54/se-image-4799f9106491ebb58ca3351f6df5c44a.jpg",
+        "quantity":1
+    },
+    {
+        "id":2,
+        "carName":"Rimac Nevera",
+        "price":"30000",
+        "image":"https://www.ccarprice.com/products/Rimac_Nevera_2023.jpg",
+        "quantity":1
+    },
+    {
+        "id":3,
+        "carName":"Pininfarina Battista",
+        "price":"12000",
+        "image":"https://images.moneycontrol.com/static-mcnews/2019/03/Battista1.jpg",
+        "quantity":1
+    },
+    {
+        "id":4,
+        "carName":"Lamborghini Sián",
+        "price":"15000",
+        "image":"https://www.motortrend.com/uploads/sites/5/2021/03/2021-Lamborghini-Sian-41.jpg?fit=around%7C875:492",
+        "quantity":1
+    },
+    {
+        "id":5,
+        "carName":"Ferrari 812",
+        "price":"18000",
+        "image":"https://media.wired.com/photos/5926764eaf95806129f4f85d/master/pass/ferrari_812-Superfast_TA.jpg",
+        "quantity":1
+    },
+    {
+        "id":6,
+        "carName":"McLaren Speedtail",
+        "price":"40000",
+        "image":"https://robbreport.com/wp-content/uploads/2022/04/speedtail04.jpg?w=1000",
+        "quantity":1
+    }
+]
